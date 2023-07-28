@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import java.time.LocalDateTime;
 /**
  * @author dev-tlury
- * AbstractRepository는 신입 개발자들의 CrudRepository를 JDBCDriver를 이용해 간접 경험을 할 수 있도록 임의로 작성한 코드 입니다.
+ * AbstractRepository는 신입 개발자들의 CrudRepository를 간접 경험을 할 수 있도록 임의로 작성한 코드 입니다.
  * 이 클래스는 기본 CRUD를 처리 합니다.
  *
  * @param <T> 처리할 VO, DTO 객체
